@@ -41,13 +41,40 @@ body {
     margin-bottom: 5px;
     border: solid white 1px;
     padding: 2px;
-    
-}
+    }
 .cont {
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
     padding: 70px;
+}
+.about {
+    background-color: white;
+    min-height: 300px;
+    padding: 50px;
+    font-size: 25px;
+}
+.contact{
+    background-color: white;
+    min-height: 300px;
+    padding: 50px;
+    font-size: 25;
+}
+.final{
+    background-color: #baaf96;
+    padding: 01px;
+    font-size: 15px;
+}
+.where{
+    background-color: white;
+    padding: 01px;
+    font-size: 15px;
+}
+.context{
+    background-color: white;
+    padding: 01px;
+    text-align: justify;
+    font-size: 25px;
 }
 .footer {
     background-color: white;
