@@ -76,6 +76,16 @@ body {
     text-align: justify;
     font-size: 25px;
 }
+.table, tr, th{
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px; 
+    ;
+
+}
 .footer {
     background-color: white;
     min-height: 150px;
